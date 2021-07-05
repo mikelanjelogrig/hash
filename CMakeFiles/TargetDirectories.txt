@@ -1,0 +1,7 @@
+/home/mykle/Work/My project/CMakeFiles/install/strip.dir
+/home/mykle/Work/My project/CMakeFiles/install.dir
+/home/mykle/Work/My project/CMakeFiles/list_install_components.dir
+/home/mykle/Work/My project/CMakeFiles/rebuild_cache.dir
+/home/mykle/Work/My project/CMakeFiles/edit_cache.dir
+/home/mykle/Work/My project/CMakeFiles/install/local.dir
+/home/mykle/Work/My project/CMakeFiles/hash.dir
